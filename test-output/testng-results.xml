@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22488" started-at="2022-06-20T11:46:15Z" finished-at="2022-06-20T11:46:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22488" started-at="2022-06-20T11:46:15Z" finished-at="2022-06-20T11:46:37Z">
+      <class name="IBM.testng.assessment">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:IBM.testng.assessment@1a407d53]" name="testcase1" duration-ms="22474" started-at="2022-06-20T17:16:15Z" finished-at="2022-06-20T17:16:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- IBM.testng.assessment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
